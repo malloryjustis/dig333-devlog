@@ -19,7 +19,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 
-## Week 1
+## Week 2
 
 ### Context
 Article 1: [The Internet of Things: Roadmap to a Connected World](https://www.technologyreview.com/2016/03/11/108875/the-internet-of-things-roadmap-to-a-connected-world/)
@@ -51,3 +51,11 @@ Question: At what point does technology take over our lives instead of improving
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+1. Experiement 1: Taste the Power!
+    1. We never got to actually lick the batteries bu I've done it before.
+    2. Resistance is measured in Ohms. Conductors have low resistance and insulators have high resistance.
+    3. How do lie detectors work?
+
+2. Experiment 2: Let's Abuse a Battery!
+    1. 
