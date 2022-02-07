@@ -17,7 +17,15 @@ BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DET
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
 
+## Week 1
 
+Summary: The Ted Talk described the physical computing as the interaction between computers and people. Computers will take inputs from people and create things for people to interact with in return.
+
+Quote: "What they do matters less than the relationships that we make through them."
+
+Comment: I think a big issue that will continue to grow is the debate over how much control the government, large companies, and individuals should have over technology. We need regulations to prevent harm, but we also need the opportunties for open source hardware. Technology can have consequences, so the debate is over who has control of it.
+
+Question: What is open source hardware?
 
 ## Week 2
 
@@ -53,9 +61,14 @@ Question: At what point does technology take over our lives instead of improving
     1. Write a quiz question (which we will discuss in class)
 
 1. Experiement 1: Taste the Power!
-    1. We never got to actually lick the batteries bu I've done it before.
-    2. Resistance is measured in Ohms. Conductors have low resistance and insulators have high resistance.
-    3. How do lie detectors work?
+    1. We did not get to lick the batteries in class, but I work in the Makerspace, so I tried it down there. It was not as exciting as I was expecting it to be.
+    2. Notes:
+        i. Resistance is measured in Ohms. 
+        ii. Conductors have low resistance and insulators have high resistance.
+    4. How do lie detectors work?
 
 2. Experiment 2: Let's Abuse a Battery!
-    1. 
+    1. We also did not end up doing this experiement in class, but I've done this in my physics class before. A very important thing to remember is that short circuits are dangerous, and you should only try this with alkaline batteries, not lithium.
+    2. Chemical reactions inside a battery create electrical pressure, resulting in voltage. Current is measured in amps. You can use a water analogy to understand how circuits work. Think of water in a tube with a hole in the bottom that it can leak out through. The voltage is the pressure, or the height of the water level. The amperage is the flow out of the hole. The resistance is the size of the hole. A larger hole would cause less resistance because mroe amperage can flow through it, and vice versa.
+    3. 
+    4. 
