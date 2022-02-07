@@ -62,7 +62,7 @@ Question: At what point does technology take over our lives instead of improving
 
 1. Experiement 1: Taste the Power!
     1. We did not get to lick the batteries in class, but I work in the Makerspace, so I tried it down there. It was not as exciting as I was expecting it to be.
-    2. Notes: Resistance is measured in Ohms. Conductors have low resistance and insulators have high resistance.\\
+    2. Notes: Resistance is measured in Ohms. \ Conductors have low resistance and insulators have high resistance.\
     4. How do lie detectors work?
 
 2. Experiment 2: Let's Abuse a Battery!
