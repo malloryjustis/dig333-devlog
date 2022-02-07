@@ -62,11 +62,10 @@ Question: At what point does technology take over our lives instead of improving
 
 1. Experiement 1: Taste the Power!
     1. We did not get to lick the batteries in class, but I work in the Makerspace, so I tried it down there. It was not as exciting as I was expecting it to be.
-    2. Notes: Resistance is measured in Ohms. \ Conductors have low resistance and insulators have high resistance.\
-    4. How do lie detectors work?
+    2. Resistance is measured in Ohms. Conductors have low resistance and insulators have high resistance.
+    3. How do lie detectors work?
 
 2. Experiment 2: Let's Abuse a Battery!
     1. We also did not end up doing this experiement in class, but I've done this in my physics class before. A very important thing to remember is that short circuits are dangerous, and you should only try this with alkaline batteries, not lithium.
     2. Chemical reactions inside a battery create electrical pressure, resulting in voltage. Current is measured in amps. You can use a water analogy to understand how circuits work. Think of water in a tube with a hole in the bottom that it can leak out through. The voltage is the pressure, or the height of the water level. The amperage is the flow out of the hole. The resistance is the size of the hole. A larger hole would cause less resistance because mroe amperage can flow through it, and vice versa.
     3. 
-    4. 
