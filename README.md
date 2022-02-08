@@ -13,7 +13,7 @@
 
 
 <!--
-BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS 
+BELOW IS A WEEKLY TEMPLATE. COPY/PASTE IT TO ADD A WEEK. SEE ASSIGNMENTS FOR DETAILS
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 -->
 
@@ -66,10 +66,24 @@ Question: At what point does technology take over our lives instead of improving
     3. Quiz question: How do lie detectors work?
 
 2. Experiment 2: Let's Abuse a Battery!
-    1. We also did not end up doing this experiement in class, but I've done this in my physics class before. A very important thing to remember is that short circuits are dangerous, and you should only try this with alkaline batteries, not lithium.
-    2. Chemical reactions inside a battery create electrical pressure, resulting in voltage. Current is measured in amps. You can use a water analogy to understand how circuits work. Think of water in a tube with a hole in the bottom that it can leak out through. The voltage is the pressure, or the height of the water level. The amperage is the flow out of the hole. The resistance is the size of the hole. A larger hole would cause less resistance because mroe amperage can flow through it, and vice versa.
+    1. We also did not end up doing this experiment in class, but I've done this in my physics class before. A very important thing to remember is that short circuits are dangerous, and you should only try this with alkaline batteries, not lithium.
+    2. Chemical reactions inside a battery create electrical pressure, resulting in voltage. Current is measured in amps. You can use a water analogy to understand how circuits work. Think of water in a tube with a hole in the bottom that it can leak out through. The voltage is the pressure, or the height of the water level. The amperage is the flow out of the hole. The resistance is the size of the hole. A larger hole would cause less resistance because more amperage can flow through it, and vice versa.
     3. There are two types of current. DC (direct current) is what we will be working with in the class. It flows steady in one direction. AC (alternating current) changes from positive to negative and is used to supply electricity to homes. It can be very powerful and dangerous. The charging blocks you use to plug your phone into the wall convert AC to DC current.
     4. Quiz question: What might happen if you short circuit a car battery?
 
 3. Experiment 3: Your First Circuit
-    1. 
+    1. <img src="first_circuit.jpg" alt="first circuit"/>
+    2.
+    3. Quiz question: What do a lot of resistors have on them that are a faster way to figure out their resistance?
+
+4. Experiment 4: Varying the Voltage
+    1.
+    2. A potentiometer is a device that can be used to adjust the resistance in a circuit. Higher resistance limits the flow of current, or amperage. Resistors in series are oriented so that one follows the other, while resistors in parallel are oriented side by side. Parallel resistors lower the resistance because the current has more paths to take while series resistors increase resistance.
+    3. Ohm's law describes the relationship between amperage/current (I), voltage (V), and resistance (R). $V = IR$
+    4. A watt is a unit of work, and can be found using $W = VI$
+    5. Quiz question: How does a potentiometer work?
+
+5. Experiment 5: Let's Make a battery
+    1.
+    2. Two batteries in series deliver twice the voltage, while two batteries in parallel can deliver twice the current for twice as long.
+    3. Quiz question: How can you create an analogy between batteries and water tanks to explain putting batteries in series vs parallel?
