@@ -90,7 +90,7 @@ Question: At what point does technology take over our lives instead of improving
     4. Quiz question: How can you create an analogy between batteries and water tanks to explain putting batteries in series vs parallel?
 
 
-## Week 2
+## Week 3
 
 ### Context
 Article 1: [The Critical Engineering Manifesto](https://criticalengineering.org/)
