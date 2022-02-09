@@ -72,18 +72,19 @@ Question: At what point does technology take over our lives instead of improving
     4. Quiz question: What might happen if you short circuit a car battery?
 
 3. Experiment 3: Your First Circuit
-    1. <img src="first_circuit.jpg" alt="first circuit"/>
-    2.
+    1. <img src="first_circuit.jpg" alt="first circuit" style="float: left; margin-right: 10px;" />
+    2. <img src="resistor.jpg" alt="resistor" style="float: left; margin-right: 10px;" />
     3. Quiz question: What do a lot of resistors have on them that are a faster way to figure out their resistance?
 
 4. Experiment 4: Varying the Voltage
-    1.
+    1. <img src="resistors_parallel_series.jpg" alt="resistors in series and parallel" style="float: left; margin-right: 10px;" />
     2. A potentiometer is a device that can be used to adjust the resistance in a circuit. Higher resistance limits the flow of current, or amperage. Resistors in series are oriented so that one follows the other, while resistors in parallel are oriented side by side. Parallel resistors lower the resistance because the current has more paths to take while series resistors increase resistance.
     3. Ohm's law describes the relationship between amperage/current (I), voltage (V), and resistance (R). $V = IR$
     4. A watt is a unit of work, and can be found using $W = VI$
     5. Quiz question: How does a potentiometer work?
 
 5. Experiment 5: Let's Make a battery
-    1.
-    2. Two batteries in series deliver twice the voltage, while two batteries in parallel can deliver twice the current for twice as long.
-    3. Quiz question: How can you create an analogy between batteries and water tanks to explain putting batteries in series vs parallel?
+    1. <img src="batteries_series_parallel_notes.jpg" alt="batteries in series and parallel notes" style="float: left; margin-right: 10px;" />
+    2. <img src="multiple_batteries_circuit.jpg" alt="multiple batteries in series circuit" style="float: left; margin-right: 10px;" />
+    3. Two batteries in series deliver twice the voltage, while two batteries in parallel can deliver twice the current for twice as long.
+    4. Quiz question: How can you create an analogy between batteries and water tanks to explain putting batteries in series vs parallel?
