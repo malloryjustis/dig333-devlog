@@ -74,7 +74,8 @@ Question: At what point does technology take over our lives instead of improving
 3. Experiment 3: Your First Circuit
     1. <img src="week_1_images/first_circuit.jpg" alt="first circuit" style="float: left; margin-right: 10px;" />
     2. <img src="week_1_images/resistor.jpg" alt="resistor" style="float: left; margin-right: 10px;" />
-    3. Quiz question: What do a lot of resistors have on them that are a faster way to figure out their resistance?
+    3. When decoding resistors, put the silver or gild stripe all the way to the right. Silver means the value of the resistor is accurate within 10% and gold means within 5%. The second stripe from the right tells how many zeroes to add.
+    4. Quiz question: What do a lot of resistors have on them that are a faster way to figure out their resistance?
 
 4. Experiment 4: Varying the Voltage
     1. <img src="week_1_images/resistors_parallel_series.jpg" alt="resistors in series and parallel" style="float: left; margin-right: 10px;" />
