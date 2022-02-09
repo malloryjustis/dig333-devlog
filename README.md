@@ -88,3 +88,27 @@ Question: At what point does technology take over our lives instead of improving
     2. <img src="multiple_batteries_circuit.jpg" alt="multiple batteries in series circuit" style="float: left; margin-right: 10px;" />
     3. Two batteries in series deliver twice the voltage, while two batteries in parallel can deliver twice the current for twice as long.
     4. Quiz question: How can you create an analogy between batteries and water tanks to explain putting batteries in series vs parallel?
+
+
+## Week 2
+
+### Context
+Article 1: [The Critical Engineering Manifesto](https://criticalengineering.org/)
+
+Summary: A critical engineer considers the importance of engineering in society and works to explore the influence and impact of engineering and its possibilities.
+
+Quote: "The Critical Engineer recognises that each work of engineering engineers its user, proportional to that user's dependency upon it."
+
+Comment: It is important to consider how the things that we engineer also engineer us. When we become dependent on the things that we have engineered, we are just products of our own products. For example. GPS systems were created by humans to help us more easily navigate. Now, however, many people rely on their GPS and cannot get around without it, becoming dependent users.
+
+Question: What is the most concerning problems today when it comes to critical engineering?
+
+Article 2: [Artist Profile: Julian Oliver](https://rhizome.org/editorial/2012/sep/5/artist-profile-julian-oliver/)
+
+Summary: Julian Oliver is an artist that works in creative technology.
+
+Quote: "I, for instance, realised early on that I didn't want to be staring at a rectangle full of little pictures other people and companies have made and so I switched to an iconless digital workspace. For many years I've started the day with a black terminal on a GNU/Linux host operating system. That is my blank canvas. I work with software, not software products."
+
+Comment: I really like how Julian highlights the way he interacts with technology in a way to use it as a tool for his own creation, rather than becoming a user of software products. This connects to the Critical Engineering Manifesto in that we have become consumers of software products, rather than creators that use software as a tool.
+
+Question: How do art and engineering interact with digital technology and art?
