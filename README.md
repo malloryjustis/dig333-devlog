@@ -129,4 +129,10 @@ Question: Today, we are 3D printing houses. How do you think the quality of prod
 
 Article 2: [The Preserving Machine (1953)](https://owenmundy.com/teaching/docs/Dick,%20Philip%20K.%20-%20The%20Preserving%20Machine%20(1953).pdf)
 
-Summary: A doctor wishes to preserve music in the wake of warfare, out of fear of destruction of the records. He has a machine that will turn music into a living animal, which he then releases into a forest behind his house.
+Summary: A doctor wishes to preserve music in the wake of warfare, out of fear of destruction of the records. He has a machine that will turn music into a living animal, which he then releases into a forest behind his house. However, the animals evolve, and when he turns them back into music again, it is not the same.
+
+Quote: ""Even though this method failed, some other may work; something that we can't foresee or predict now may come along, some day."
+
+Comment: Because this story was written during the same time period as the other story, it can be seen that a great concern of the time was destruction of things due to nuclear war, as the Cold War was happening at the time. Today, we preserve things through the internet, where records can live on in a digital form, yet when the story was written, there was no way to save things except for physical copies. The story also highlights how nature evolves, and that autonomous living things cannot be controlled. Today, we can control computers. However, I begin to wonder that as AI becomes increasingly intelligent, how much we will be able to control about the records that the AI stores. Just as the man's forest took on its own path and went out of control, so could the technology that we have oursevles invented for preservation.
+
+Question: Do you think that physical copies of things or digital copies of things are a more "safe" option to keep them from being destroyed?
