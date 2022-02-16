@@ -113,3 +113,20 @@ Quote: "I, for instance, realised early on that I didn't want to be staring at a
 Comment: I really like how Julian highlights the way he interacts with technology in a way to use it as a tool for his own creation, rather than becoming a user of software products. This connects to the Critical Engineering Manifesto in that we have become consumers of software products, rather than creators that use software as a tool.
 
 Question: How do art and engineering interact with digital technology and art?
+
+## Week 4
+
+### Context
+Article 1: [Pay for the Printer (1956)](https://owenmundy.com/teaching/docs/Dick,%20Philip%20K.%20-%20Pay%20for%20the%20Printer%20(1956).pdf)
+
+Summary: In a desolate world following nuclear war, everything is being printed; it is being reproduced, not built. The characters have realized that the printers are dying, and the quality of the products being printed has drastically fallen. To conclude the story, one of the characters explain that he has built something himself, and that should be the way of the future.
+
+Quote: ""We'll keep it -- not to copy, but as a model, as a goal. You can't grasp the difference now, but you will."
+
+Comment: The story brings attention to the problem of mass production. During the 1950s, the Cold War and the idea of nuclear warfare was an extreme concern around the globe, and the idea of technology becoming both a weapon and the only source of production was alarming. The issue in the story highlights how continuously replicating and copying other products will eventually cause the quality to go down, and people will lose their ability to engineer tools, products, and machines on their own.
+
+Question: Today, we are 3D printing houses. How do you think the quality of production and the human creativity that is involved in architecture will change in the near future?
+
+Article 2: [The Preserving Machine (1953)](https://owenmundy.com/teaching/docs/Dick,%20Philip%20K.%20-%20The%20Preserving%20Machine%20(1953).pdf)
+
+Summary: A doctor wishes to preserve music in the wake of warfare, out of fear of destruction of the records. He has a machine that will turn music into a living animal, which he then releases into a forest behind his house.
