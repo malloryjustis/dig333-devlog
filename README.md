@@ -136,3 +136,11 @@ Quote: ""Even though this method failed, some other may work; something that we 
 Comment: Because this story was written during the same time period as the other story, it can be seen that a great concern of the time was destruction of things due to nuclear war, as the Cold War was happening at the time. Today, we preserve things through the internet, where records can live on in a digital form, yet when the story was written, there was no way to save things except for physical copies. The story also highlights how nature evolves, and that autonomous living things cannot be controlled. Today, we can control computers. However, I begin to wonder that as AI becomes increasingly intelligent, how much we will be able to control about the records that the AI stores. Just as the man's forest took on its own path and went out of control, so could the technology that we have oursevles invented for preservation.
 
 Question: Do you think that physical copies of things or digital copies of things are a more "safe" option to keep them from being destroyed?
+
+## Week 5
+
+### Context
+
+Article 1: [Everything That's Inside Your Phone](https://www.vice.com/en/article/433wyq/everything-thats-inside-your-iphone)
+
+Summary: 
