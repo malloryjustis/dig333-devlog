@@ -143,4 +143,20 @@ Question: Do you think that physical copies of things or digital copies of thing
 
 Article 1: [Everything That's Inside Your Phone](https://www.vice.com/en/article/433wyq/everything-thats-inside-your-iphone)
 
-Summary: 
+Summary: The article lists all the raw materials that go into an iPhone, and it discusses the ethics of their extraction.
+
+Quote: "So, according to Michaud's calculations, producing a single iPhone requires, roughly, mining 34 kilos of ore, 100 liters of water, and 20.5 grams of cyanide."
+
+Comment: The amount of raw materials, energy, and labor that goes into creating just the hardware of an iPhone should justify the price. The environmental impacts and the humanitarian issues of child labor and underpaid workers are concerning, considering that many consumers don't even think about what goes on at the very beginning of iPhone production.
+
+Question: If Apple gets its materials from a place that has already mined them, who is responsible? Apple, the company they buy from, or the consumer?
+
+Article 2: [One Man's Nearly Impossible Quest to Make a Toaster From Scratch](https://gizmodo.com/one-mans-nearly-impossible-quest-to-make-a-toaster-from-5794368)
+
+Summary: A man decided to make a toaster straight from raw materials. He realized how much mass production and manufacturing has disconnected the product from the raw materials that go into it.
+
+Quote: "But when he brought it home and unscrewed all the bits, he found 400 parts made of over 100 different materials. Finding every material would have extended his roughly nine month project into a life long one."
+
+Comment: I think we, as consumers, need to be more aware of what goes into the products we use. It is very easy to buy something off of a shelf, plug it in, and not think much of it. But if we understand how the things we are using work and what goes into making them, not only will we be able to fix them ourselves, but we can appreciate what the technology has done for us and be more aware of our environmental and human effects of consuming technological goods.
+
+Question: What is something you think would be easy to make from raw materials?
