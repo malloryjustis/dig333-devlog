@@ -160,3 +160,40 @@ Quote: "But when he brought it home and unscrewed all the bits, he found 400 par
 Comment: I think we, as consumers, need to be more aware of what goes into the products we use. It is very easy to buy something off of a shelf, plug it in, and not think much of it. But if we understand how the things we are using work and what goes into making them, not only will we be able to fix them ourselves, but we can appreciate what the technology has done for us and be more aware of our environmental and human effects of consuming technological goods.
 
 Question: What is something you think would be easy to make from raw materials?
+
+### Experiements
+
+6. Experiment 6: Very Simple Switching
+    1. <img src="week_2_images/exp6_wirecutter.jpg" alt="Cutting the AC-DC Adapter" style="float: left; margin-right: 10px;" />
+    2. <img src="week_2_images/exp6_reading.jpg" alt="Plugged in Adapter" style="float: left; margin-right: 10px;" />
+    3. <img src="week_2_images/exp6.jpg" alt="Circuit with Push Buttons" style="float: left; margin-right: 10px;" />
+    4. Stranded wires are more flexible but cannot easily be used with breadboards.
+    5. Push buttons are a momentary on (SPST), aka OFF-(ON) or (ON)-OFF.
+    6. Switches: toggle switches, single-pole, double throw (SPDT), aka ON-ON type
+    7. SPDT: single pole double throw switch
+    8. SPST: single throw switch (one direction = contact, other direction = no contact, like household light switches)
+    9. Quiz Question: In schematics, is the positive side of the power supply shown at the top or bottom of the diagram?
+
+7. Experiement 7: Relay-Driven LEDs
+    1. <img src="week_2_images/exp7.jpg" alt="Relay Circuit" style="float: left; margin-right: 10px;" />
+    2. <img src="week_2_images/exp7_2.jpg" alt="Relay Circuit with Pushbutton On" style="float: left; margin-right: 10px;" />
+    3. Inside a relay is a coil of wire wrapped around an iron core. This is where electricity runs through the coil. The iron core exerts a magnetic force, which pulls a level, which pushes or pulls a springy strip of metal closing two conacts. Relays are categorized like switches: SPDT, DPST, SPDT, etc.
+    4. Relays convert small electrical stimuli into larger currents.
+
+8. Experiment 8: A Realy Oscillator
+    1. <img src="week_2_images/exp8_breadboard.jpg" alt="Bread Board with Relay" style="float: left; margin-right: 10px;" />
+    2. Farad: international unit used to measure capacitance.
+    3. Capacitor: like a small rechargable battery
+    4. Capacitors will pop up from breadboards, so be careful!
+
+9. Experiement 9: Time and Capacitors
+    1. <img src="week_2_images/exp9.jpg" alt="Measuring the Voltage Across a Capacitor" style="float: left; margin-right: 10px;" />
+    2. In this experiement we measured the voltage across a capacitor, and then when we touched the capacitor with a resistor, the voltage dropped to zero.
+    3. Capacitors don't charge at a constant rate. Volts accumulate slower and slower. Think of electrons trying to fill an auditorium; as seats fill up, it takes more time for people to find seats. 
+    4. TC = R x C (TC: time constant, C: farads, R: ohms)
+
+10. Experiment 10: Transistor Switching
+    1. <img src="week_2_images/exp10.jpg" alt="Using Fingers in Circuit" style="float: left; margin-right: 10px;" />
+    2. Transistor: semiconductor device used to amplify or switch electrical signals and power.
+    3. NPN and PNP transistors behave like pushbuttons.
+    4. Don't let electricity run through body, only use one hand. At high voltage it can be very dangerous!
