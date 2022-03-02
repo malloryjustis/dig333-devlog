@@ -161,7 +161,7 @@ Comment: I think we, as consumers, need to be more aware of what goes into the p
 
 Question: What is something you think would be easy to make from raw materials?
 
-### Experiements
+### Experiments
 
 6. Experiment 6: Very Simple Switching
     1. <img src="week_2_images/exp6_wirecutter.jpg" alt="Cutting the AC-DC Adapter" style="float: left; margin-right: 10px;" />
@@ -197,3 +197,7 @@ Question: What is something you think would be easy to make from raw materials?
     2. Transistor: semiconductor device used to amplify or switch electrical signals and power.
     3. NPN and PNP transistors behave like pushbuttons.
     4. Don't let electricity run through body, only use one hand. At high voltage it can be very dangerous!
+
+## Week 6
+
+### Context
