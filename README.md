@@ -201,3 +201,25 @@ Question: What is something you think would be easy to make from raw materials?
 ## Week 6
 
 ### Context
+
+Article 1: [Igloo White](https://owenmundy.com/teaching/docs/Correll,%20John%20T.%20-%20Igloo%20White,%20Air%20Force%20Magazine,%202004.pdf)
+
+Summary: During the Vietnam War, sensors were installed across a military line to detect movement across it. The military wanted to just hold the line, not invade Northern Vietnam. While this project ultimately was not successful, it made progress in military technology and developed new thoughts about replacing soldiers with technological sensors.
+
+Quote: "Igloo White consisted of three
+parts: the sensors, the orbiting aircraft to relay the signal, and the Infiltration Surveillance Center at Nakhon Phanom Air Base in Thailand."
+
+Comment: The article made me think about how much technology that we use in every day life started out as military technology. A lot of our daily devices came about because they were intended for military surveillance. 
+
+Question: Do you think there is a possibility of just having a technological war? How would the victor of a cyberwar be determined?
+
+Article 2: [Unseen Sensors: Constantly Sensing but Rarely Seen](https://owenmundy.com/teaching/docs/Nissen%20-%20Unseen%20Sensors%20Constantly%20Sensing%20but%20Rarely%20Seen.pdf)
+
+Summary: In NYC, there are so many sensors that are constantly taking in information, yet we rarely think about them. From traffic sensors, building security cameras, automatic door openers, automatic lights, and more, information is constantly being taken in by these sensors around us.
+
+Quote: "Sensors are inherently of their context: the physical context they sense and the human one they often infer, but also of the corporations that manufacture
+them, and the organizations that install them and base decisions on the supposedly objective data that they create."
+
+Comment: The amount of information that is being taken in by sensors ultimately concerns me. Yes, the information is helpful for traffic patterns, safety, and accessibility, but I get concerned about when companies begin to use this information for advertisements, or if systems were to be hacked into and someone were to use facial recognition to monitor someone. Additionally, the government can use these sensors to monitor for criminals and spies, yet I wonder at what point does it become an infiltration of privacy.
+
+Question: Should we be concerned about the data that is being sensed, or should we be more concerned about the companies that have access to this data?
