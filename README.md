@@ -30,6 +30,7 @@ Question: What is open source hardware?
 ## Week 2
 
 ### Context
+
 Article 1: [The Internet of Things: Roadmap to a Connected World](https://www.technologyreview.com/2016/03/11/108875/the-internet-of-things-roadmap-to-a-connected-world/)
 
 Summary: The article describes the concerns and benefits of increasing connectivity with technology. The article highlights some of the main issues that we should be worried about, such as system architecture agreements and standards. The author points out that we need ask ourselves the value of these technologies.
@@ -94,6 +95,7 @@ Question: At what point does technology take over our lives instead of improving
 ## Week 3
 
 ### Context
+
 Article 1: [The Critical Engineering Manifesto](https://criticalengineering.org/)
 
 Summary: A critical engineer considers the importance of engineering in society and works to explore the influence and impact of engineering and its possibilities.
@@ -117,6 +119,7 @@ Question: How do art and engineering interact with digital technology and art?
 ## Week 4
 
 ### Context
+
 Article 1: [Pay for the Printer (1956)](https://owenmundy.com/teaching/docs/Dick,%20Philip%20K.%20-%20Pay%20for%20the%20Printer%20(1956).pdf)
 
 Summary: In a desolate world following nuclear war, everything is being printed; it is being reproduced, not built. The characters have realized that the printers are dying, and the quality of the products being printed has drastically fallen. To conclude the story, one of the characters explain that he has built something himself, and that should be the way of the future.
@@ -223,3 +226,13 @@ them, and the organizations that install them and base decisions on the supposed
 Comment: The amount of information that is being taken in by sensors ultimately concerns me. Yes, the information is helpful for traffic patterns, safety, and accessibility, but I get concerned about when companies begin to use this information for advertisements, or if systems were to be hacked into and someone were to use facial recognition to monitor someone. Additionally, the government can use these sensors to monitor for criminals and spies, yet I wonder at what point does it become an infiltration of privacy.
 
 Question: Should we be concerned about the data that is being sensed, or should we be more concerned about the companies that have access to this data?
+
+### Experiments
+
+Soldering
+- make sure to use a fan
+- hold solder against soldering iron in order to melt it onto wires
+
+<img src="week_3_images/souldering.jpg" alt="Soldering" style="float: left; margin-right: 10px;" />
+
+<img src="week_3_images/exp11.jpg" alt="Soldered Wires Used to Plug in Battery" style="float: left; margin-right: 10px;" />
