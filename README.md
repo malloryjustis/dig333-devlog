@@ -236,3 +236,10 @@ Soldering
 <img src="week_3_images/souldering.jpg" alt="Soldering" style="float: left; margin-right: 10px;" />
 
 <img src="week_3_images/exp11.jpg" alt="Soldered Wires Used to Plug in Battery" style="float: left; margin-right: 10px;" />
+
+## Week 7
+
+All Monk Book Notes are in the folder [Monk Notes](https://github.com/malloryjustis/dig333-devlog/tree/main/monk_notes)
+
+<img src="week_7_images/led.jpg" alt="LED" style="float: left; margin-right: 10px;" />
+<img src="week_7_images/ledcomputer.jpg" alt="LED in Pi" style="float: left; margin-right: 10px;" />
