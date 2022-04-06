@@ -244,6 +244,10 @@ All Monk Book Notes are in the folder [Monk Notes](https://github.com/malloryjus
 <img src="week_7_images/led.jpg" alt="LED" style="float: left; margin-right: 10px;" />
 <img src="week_7_images/ledcomputer.jpg" alt="LED in Pi" style="float: left; margin-right: 10px;" />
 
+## Week 8
+
+All Monk Book Notes are in the folder [Monk Notes](https://github.com/malloryjustis/dig333-devlog/tree/main/monk_notes)
+
 ## Final Project
 
 [Link to Respository for Final Project](https://github.com/malloryjustis/dig333-final-project/blob/main/README.md)
