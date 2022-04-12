@@ -248,6 +248,29 @@ All Monk Book Notes are in the folder [Monk Notes](https://github.com/malloryjus
 
 All Monk Book Notes are in the folder [Monk Notes](https://github.com/malloryjustis/dig333-devlog/tree/main/monk_notes)
 
+## Week 9
+
+Collin's Lab: [Schematics](https://www.youtube.com/watch?v=9cps7Q_IrX0)
+
+- schematic: representation of electronic circuit
+        - each symbol of schematic represents a physical component
+        - each line represents a wire/conductive travel
+        - connected wires have a dot, crossed wires don't mean connected
+
+- resistor: restricts the flow of current
+- potentiometer: variable resistor
+- capacitor: internal conductive plates
+- diode: arrow, electrons can only move in one direction
+- integrated circuits (IC): rectangle with lines representing pins
+
+[Electronic Enclosures](https://www.youtube.com/watch?v=jzs2Zo_mc4c)
+
+- protect your device and make it easy to trasnport
+- interface design is a balance between electronics and human use
+- think about how the user will interact with the device
+- functionality more important than aesthetic 
+
+
 ## Final Project
 
 [Link to Respository for Final Project](https://github.com/malloryjustis/dig333-final-project/blob/main/README.md)
